@@ -1,0 +1,7 @@
+[
+  { "slug": "plausible", "name": "Plausible", "tagline": "Privacy-friendly web analytics", "category": "analytics", "body": "Plausible is a lightweight, open source web analytics tool that does not use cookies." },
+  { "slug": "umami", "name": "Umami", "tagline": "Simple, fast website analytics", "category": "analytics", "body": "Umami is an open source analytics tool you can self-host." },
+  { "slug": "fathom", "name": "Fathom", "tagline": "Simple analytics without cookie banners", "category": "analytics", "body": "Fathom is a paid privacy-first analytics service." },
+  { "slug": "ghost", "name": "Ghost", "tagline": "Publishing platform for creators", "category": "cms", "body": "Ghost is an open source publishing platform with newsletters built in." },
+  { "slug": "strapi", "name": "Strapi", "tagline": "Open source headless CMS", "category": "cms", "body": "Strapi is a headless CMS built with Node.js." }
+]
